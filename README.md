@@ -8,7 +8,7 @@
 
 
 
-&nbsp;	`git pull https://github.com/TrisDh/M2\_Projet\_Recommandation`
+&nbsp;	`git pull https://github.com/TrisDh/M2_Projet_Recommandation`
 
 
 
@@ -28,7 +28,31 @@
 
 
 
- 	`gunzip renttherunway\_final\_data.json.gz`
+&nbsp;	`gunzip data/renttherunway_final_data.json.gz`
 
 
+
+
+
+## Lancer l'entraînement
+
+
+
+&nbsp;  `python train.py`
+
+
+
+
+
+## Lancer les tests
+
+
+
+&nbsp;  `python test.py`
+
+
+
+
+
+Le dossier reference_notebook contient le code étendu avec des commentaires supplémentaires, au format .ipynb.
 
