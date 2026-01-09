@@ -28,9 +28,9 @@
 
 
 
-&nbsp;	`gunzip modcloth\\\_final\\\_data.json.gz`
+&nbsp;	`gunzip modcloth\_final\_data.json.gz`
 
- 	`gunzip renttherunway\\\_final\\\_data.json.gz`
+ 	`gunzip renttherunway\_final\_data.json.gz`
 
 .
 
