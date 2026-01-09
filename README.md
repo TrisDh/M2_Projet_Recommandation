@@ -8,7 +8,7 @@
 
 
 
-&nbsp;	git pull https://github.com/TrisDh/M2\_Projet\_Recommandation
+&nbsp;	`git pull https://github.com/TrisDh/M2\_Projet\_Recommandation`
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-&nbsp;	pip install requirements.txt
+&nbsp;	`pip install requirements.txt`
 
 
 
