@@ -54,5 +54,9 @@
 
 
 
+## Notes
+
+
+
 Le dossier reference_notebook contient le code étendu avec des commentaires supplémentaires, au format .ipynb.
 
