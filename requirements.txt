@@ -4,11 +4,11 @@ numpy
 pandas
 os
 pickle
-transformers
-torch
 tqdm
 umap-learn
 matplotlib
+transformers
+torch
 seaborn
 scikit-learn
 random
