@@ -1,10 +1,10 @@
-\# Recommandation à base d'embeddings des commentaires clients
+# Recommandation à base d'embeddings des commentaires clients
 
 
 
 
 
-\## Récupérer le repo
+## Récupérer le repo
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-\## Installer les dépendances
+## Installer les dépendances
 
 
 
@@ -24,13 +24,11 @@
 
 
 
-\## Décompresser les datasets (si training à faire)
+## Décompresser le dataset (si training à faire)
 
 
-
-&nbsp;	`gunzip modcloth\_final\_data.json.gz`
 
  	`gunzip renttherunway\_final\_data.json.gz`
 
-.
+
 
